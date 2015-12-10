@@ -1,0 +1,15 @@
+Source: rem
+Section: devel
+Priority: extra
+Maintainer: Martin Borho <martin@borho.net>
+Build-Depends: debhelper (>= 7.0.50~),
+               golang-go 
+Standards-Version: 0.1.1
+Homepage: https://github.com/mborho/rem
+
+Package: rem
+Architecture: amd64
+Section: misc
+# Depends: ${misc:Depends},
+Description: rem is a small tool for remembering things on the command line.
+ rem is a small tool for remembering things on the command line. It can be used to store commands and execute them later on. Or to simply store lines of text.long description and info
