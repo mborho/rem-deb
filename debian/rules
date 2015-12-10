@@ -6,15 +6,13 @@ export DH_VERBOSE=1
 
 export GOPATH=$(CURDIR)/rem
 
-PKGDIR=$(CURDIR)
+PKGDIR=debian/rem
 
 %:
 	dh $@ 
 
 clean:
 	dh_clean
-	rm -rf $(GOPATH)/bin/* $(GOPATH)/pkg/*
-	rm -f $(GOPATH)/goinstall.log
 
 binary-arch: clean
 	dh_prep
