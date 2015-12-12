@@ -1,3 +1,15 @@
+rem (0.3.0-0-wily) wily; urgency=low
+
+  * Added -f, filter command, to filter command-listing by regular expression.
+
+ -- Martin Borho <martin@borho.net>  Sat, 12 Dec 2015 00:00:00 +0000
+
+rem (0.2.0-0-wily) wily; urgency=low
+
+  * Added -g (use global rem file), -h (help) and -a (add) flags.
+
+ -- Martin Borho <martin@borho.net>  Sat, 12 Dec 2015 00:00:00 +0000
+
 rem (0.1-1-wily) wily; urgency=low
 
   * Initial build.
