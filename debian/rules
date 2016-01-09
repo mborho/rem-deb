@@ -17,7 +17,7 @@ clean:
 binary-arch: clean
 	dh_prep
 	dh_installdirs
-	cd $(GOPATH) && go build -o rem main.go
+	cd $(GOPATH) && go build -o rem main.go line.go
 	mkdir -p $(PKGDIR)/usr/bin
 	cp $(GOPATH)/rem $(PKGDIR)/usr/bin/
 	dh_strip
