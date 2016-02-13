@@ -1,3 +1,9 @@
+rem (0.7.0-0-wily) wily; urgency=low
+
+  * Fixed bug when appending lines with tags.
+
+ -- Martin Borho <martin@borho.net>  Mon, 11 Jan 2016 00:00:00 +0000
+
 rem (0.6.1-0-wily) wily; urgency=low
 
   * Added tags for lines.
