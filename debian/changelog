@@ -1,3 +1,16 @@
+rem (0.9.0-0-wily) wily; urgency=low
+
+  * Improved test coverage
+
+ -- Martin Borho <martin@borho.net>  Mon, 19 Mar 2016 00:00:00 +0000
+
+rem (0.8.0-0-wily) wily; urgency=low
+
+  * Bugfixes
+  * Refactoring
+
+ -- Martin Borho <martin@borho.net>  Mon, 13 Feb 2016 00:00:00 +0000
+
 rem (0.7.0-0-wily) wily; urgency=low
 
   * Fixed bug when appending lines with tags.
