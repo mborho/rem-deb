@@ -1,47 +1,54 @@
-rem (0.9.0-0-wily) wily; urgency=low
+rem (0.10.0-0-zesty) zesty; urgency=low
+
+  * Display help if rem file is empty.
+  * Upward traversal search for rem file.
+
+ -- Martin Borho <martin@borho.net>  Mon, 05 Aug 2017 00:00:00 +0000
+
+rem (0.9.0-0-zesty) zesty; urgency=low
 
   * Improved test coverage
 
  -- Martin Borho <martin@borho.net>  Mon, 19 Mar 2016 00:00:00 +0000
 
-rem (0.8.0-0-wily) wily; urgency=low
+rem (0.8.0-0-zesty) zesty; urgency=low
 
   * Bugfixes
   * Refactoring
 
  -- Martin Borho <martin@borho.net>  Mon, 13 Feb 2016 00:00:00 +0000
 
-rem (0.7.0-0-wily) wily; urgency=low
+rem (0.7.0-0-zesty) zesty; urgency=low
 
   * Fixed bug when appending lines with tags.
 
  -- Martin Borho <martin@borho.net>  Mon, 11 Jan 2016 00:00:00 +0000
 
-rem (0.6.1-0-wily) wily; urgency=low
+rem (0.6.1-0-zesty) zesty; urgency=low
 
   * Added tags for lines.
 
  -- Martin Borho <martin@borho.net>  Sun, 13 Dec 2015 00:00:00 +0000
 
-rem (0.4.0-0-wily) wily; urgency=low
+rem (0.4.0-0-zesty) zesty; urgency=low
 
   * Using tabwriter.
 
  -- Martin Borho <martin@borho.net>  Sun, 13 Dec 2015 00:00:00 +0000
 
-rem (0.3.0-0-wily) wily; urgency=low
+rem (0.3.0-0-zesty) zesty; urgency=low
 
   * Added -f, filter command, to filter command-listing by regular expression.
 
  -- Martin Borho <martin@borho.net>  Sat, 12 Dec 2015 00:00:00 +0000
 
-rem (0.2.0-0-wily) wily; urgency=low
+rem (0.2.0-0-zesty) zesty; urgency=low
 
   * Added -g (use global rem file), -h (help) and -a (add) flags.
 
  -- Martin Borho <martin@borho.net>  Sat, 12 Dec 2015 00:00:00 +0000
 
-rem (0.1-1-wily) wily; urgency=low
+rem (0.1-1-zesty) zesty; urgency=low
 
   * Initial build.
 
